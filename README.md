@@ -1,12 +1,13 @@
 
 ### Setup .env file
+
 MONGO_URI=your_mongo_uri
 PORT=5000
-JWT_SECRET=your_secret_key
+JWT_SECRET= key
 NODE_ENV=development
 
-MAILTRAP_TOKEN=your_mailtrap_token
-MAILTRAP_ENDPOINT=https://send.api.mailtrap.io/
+MAILTRAP_TOKEN= mailtrap.ID
+MAILTRAP_ENDPOINT= mailtrap.mail
 
 CLIENT_URL= http://localhost:5173
 
